@@ -1,10 +1,3 @@
-"""
-Credit
-CS50 Problem Set 6
-
-Checks if credit card number is valid using Luhn's Algorithm and which
-company the credit card belongs to
-"""
 from cs50 import get_int
 
 
